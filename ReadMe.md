@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Elina Wolf! I’m currently in school, but when I’m not hitting the books, I’m diving into the world of Full-Stack Development and Web Design. I love bringing ideas to life online and experimenting with everything tech and development has to offer.
 
+# Important:
+Projects are only available and and updated on my [GitLab](https://gitlab.elina-wolf.com)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el1na.wlf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail@elina-wolf.com) 
