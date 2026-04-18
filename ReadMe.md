@@ -2,7 +2,7 @@
 Hi, I’m Elina Wolf! I’m currently in school, but when I’m not hitting the books, I’m diving into the world of Full-Stack Development and Web Design. I love bringing ideas to life online and experimenting with everything tech and development has to offer.
 
 # Important:
-Projects are only available and and updated on my [GitLab](https://gitlab.elina-wolf.com)
+Projects are only available and and updated on my [GitLab](https://gitlab.elina-wolf.com).
 
 
 ## 🌐 Socials:
